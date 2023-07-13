@@ -30,7 +30,7 @@ function golfScore(par, strokes) {
   }
 
   
-  // Only change code above this line
+  
 }
 
 golfScore(5, 4);
